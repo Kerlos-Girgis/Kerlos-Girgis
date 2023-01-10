@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kerlos! <br/><a href="https://github.com/Kerlos-Girgis"> Data Engineer</a>, <a href="https://www.linkedin.com/in/kerlosgirgis/">Data Analyst</a>, <a href="https://www.linkedin.com/in/kerlosgirgis/">Finance Professional</a></h1>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kerlos! <br/><a href="https://github.com/Kerlos-Girgis"> Data Engineer</a>, <a href="https://www.linkedin.com/in/kerlosgirgis/">Data Analyst</a>, <a href="https://www.linkedin.com/in/kerlosgirgis/">Finance Professional</a></h1>
 
 
 <h2>👨‍💻 Data Engineering Projects:</h2>
